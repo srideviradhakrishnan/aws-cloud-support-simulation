@@ -49,7 +49,7 @@ To replicate real-world AWS support scenarios like infrastructure monitoring, pe
 ## 📌 How to Use
 
 1. Clone the repository:
-git clone https://github.com/your-username/aws-cloud-support-simulation.git
+git clone https://github.com/srideviradhakrishnan/aws-cloud-support-simulation.git
 
 2.Explore runbooks in /runbooks for step-by-step troubleshooting guides
 
@@ -59,5 +59,7 @@ git clone https://github.com/your-username/aws-cloud-support-simulation.git
 
 🙋‍♀️ About Me
 👩‍💻 Sridevi R
+
 Cloud Support Engineer
+
 Passionate about AWS support, DevOps fundamentals, and continuous learning.
