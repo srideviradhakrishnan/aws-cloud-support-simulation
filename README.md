@@ -49,10 +49,15 @@ To replicate real-world AWS support scenarios like infrastructure monitoring, pe
 ## 🧾 Runbooks
 
 - [EC2 Instance Not Reachable](ec2-instance-unreachable.md)
-- [S3 Access Denied](runbooks/s3-access-denied.md)
-- [IAM Policy Issue](runbooks/iam-policy-issue.md)
+- [S3 Access Denied](s3-access-denied.md)
+- [IAM Policy Issue](iam-policy-issue.md)
 
  --- 
+ ## 🗃️ Incident Log
+
+Download or view the [Incident Log CSV](incident-log-sample.csv) file for sample issues and resolutions.
+
+---
 
 ## 📌 How to Use
 
