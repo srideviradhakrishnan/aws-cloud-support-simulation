@@ -1,0 +1,6 @@
+Incident,Service,Cause,Resolution,Status
+EC2 Unreachable,EC2,Security group blocked port 22,Updated inbound rules,Resolved
+Access Denied,S3,Missing PutObject permission,Updated IAM policy,Resolved
+Unauthorized Operation,IAM,Policy did not include ec2:DescribeInstances,Modified IAM policy,Resolved
+High CPU Alert,EC2,Application overload,Restarted app instance,Resolved
+Version Conflict,S3,Object overwritten accidentally,Restored from versioned backup,Resolved
